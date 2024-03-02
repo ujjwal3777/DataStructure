@@ -1,0 +1,10 @@
+
+{
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷¦ƒãûÿÿÿÿ8†Ðå—Ø1
+t
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Â£²¨ÿÿÿÿÿ8ÈÐå—Ø1
+L	java:S1061"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ËÐå—Ø1
+G	java:S106>"+Replace this use of System.out by a logger.(¶þ´Ü8ÌÐå—Ø1
+G	java:S106@"+Replace this use of System.out by a logger.(¶þ´Ü8Ýüå—Ø1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍÐå—Ø1

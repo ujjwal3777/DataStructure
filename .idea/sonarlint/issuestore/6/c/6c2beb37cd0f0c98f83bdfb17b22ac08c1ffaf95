@@ -1,0 +1,59 @@
+
+K
+java:S3740¨"/Provide the parametrized type for this generic.(‰§¯Ûøÿÿÿÿ
+E
+java:S1066X"/Merge this if statement with the enclosing one.(ù‚–ô
+|
+java:S1488™"`Immediately return this expression instead of assigning it to the temporary variable "treeInfo".(å•ÖÁşÿÿÿÿ
+]
+java:S3973D"GUse indentation to denote the code conditionally executed by this "if".(úûÇÓ
+]
+java:S3973F"GUse indentation to denote the code conditionally executed by this "if".(ÇìÿĞ
+
+java:S2681F"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÇìÿĞ
+]
+java:S2259"BA "NullPointerException" could be thrown; "test" is nullable here.(‚¼äûøÿÿÿÿ
+`
+java:S2259)"EA "NullPointerException" could be thrown; "subTree" is nullable here.(®İ úıÿÿÿÿ
+E
+java:S1197	"*Move the array designators [] to the type.(¶¼‰Úøÿÿÿÿ
+E
+java:S1197
+"*Move the array designators [] to the type.(ô…å…ûÿÿÿÿ
+,
+java:S2757"Was "-=" meant instead?(Ú«¢
+@	java:S106"+Replace this use of System.out by a logger.(Áõí·
+E	java:S106"+Replace this use of System.out by a logger.(‚¼äûøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(äßÚú
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ú°¾Ó
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ó²µ³ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ôáªı
+@	java:S106"+Replace this use of System.out by a logger.(‚•ğ˜
+@	java:S106"+Replace this use of System.out by a logger.(ØˆÊ¸
+@	java:S106"+Replace this use of System.out by a logger.(ÓÃŞ–
+@	java:S106 "+Replace this use of System.out by a logger.(Šëşç
+@	java:S106!"+Replace this use of System.out by a logger.(“¹®Š
+E	java:S106#"+Replace this use of System.out by a logger.(ğö€ÿøÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(ó±—×ûÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ë¡’şÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(ë˜–é
+E	java:S106)"+Replace this use of System.out by a logger.(®İ úıÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(¨é®Äúÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(¼õ¿˜
+E	java:S106."+Replace this use of System.out by a logger.(½ŸéÀøÿÿÿÿ
+h
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Œü¢í
+E	java:S106m"+Replace this use of System.out by a logger.(§–åûÿÿÿÿ
+E	java:S106u"+Replace this use of System.out by a logger.(§–åûÿÿÿÿ
+F	java:S106®"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+A	java:S106µ"+Replace this use of System.out by a logger.(›¶Şì
+Q
+java:S1118É":Add a private constructor to hide the implicit public one.(ÍîìÚ
+F
+java:S1197Ë"*Move the array designators [] to the type.(äâÆÓùÿÿÿÿ
+V
+java:S1118×":Add a private constructor to hide the implicit public one.(»ÈÚøÿÿÿÿ
+F	java:S106Û"+Replace this use of System.out by a logger.(¶úƒºûÿÿÿÿ
