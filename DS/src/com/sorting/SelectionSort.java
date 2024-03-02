@@ -6,7 +6,8 @@ public class SelectionSort {
     /*Selection Sort finds maximum element in each iteration and swp the max element with last unsorted elements.
     Selection Sort is not stable sort
     Time Complexity : n*n
-    Space Complexity :   */
+    Space Complexity : in place algorithm
+    Doesn't require as much swap as Bubble Sort  */
     public static void main (String ... args) {
         int[] array = new int[7];
         array[0] =12;

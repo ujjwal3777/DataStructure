@@ -7,7 +7,7 @@ public class BubbleSort {
      in this way it keeps on sorting elements from last on each iteration of an array
      bubble sort is a stable sorts meaning it preserves the order of sorting
      time Complexity - n*n
-     space complexity : n*/
+     space complexity : in place algorithm */
     public static void main (String ... args) {
         int[] array = new int[7];
         array[0] =12;
